@@ -1,6 +1,5 @@
 ## Hi there 👋
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/676a18a570129741a8e243b7?variant=dark&roadmaps=full-stack" alt="roadmap.sh"/></a>
-[![roadmap.sh](https://roadmap.sh/card/tall/676a18a570129741a8e243b7?variant=dark&roadmaps=full-stack)](https://roadmap.sh)
 
 <!--
 **LiftandLearn/LiftandLearn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
